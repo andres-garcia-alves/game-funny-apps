@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pages/PokemonPage.vue debe coincidir con el snapshot 1`] = `
+<div>
+  <h2>espere por favor...</h2>
+</div>
+`;
+
+exports[`pages/PokemonPage.vue debe coincidir con el snapshot luego de cargado los pokemons 1`] = `
+<div>
+  <div>
+    <h1>¿Quién es este pokemón?</h1>
+    <div class="pokemon-container"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg" class="hidden-pokemon" alt="pokemon"></div>
+    <div class="options-container">
+      <ul>
+        <li>pikachu</li>
+        <li>charmander</li>
+        <li>venusaur</li>
+        <li>mew</li>
+      </ul>
+    </div>
+    <!--v-if-->
+  </div>
+</div>
+`;

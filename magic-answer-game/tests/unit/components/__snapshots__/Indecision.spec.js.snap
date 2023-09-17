@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MagicAnswer.vue debe de hacer match con el snapshot 1`] = `
+<div>
+  <!--v-if-->
+  <div class="bg-dark"></div>
+  <div class="magic-answer-container"><input type="text" placeholder="Estás indeciso? Preguntame lo que quieras...">
+    <p>Para terminar la pregunta usa un signo de interrogación '?'</p>
+    <!--v-if-->
+  </div>
+</div>
+`;
