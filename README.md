@@ -6,6 +6,8 @@ Based on Fernando Herrera's online Vue.js courses (spanish):
 - [YouTube channel](https://www.youtube.com/@DevTalles)  
 - [Course: 'Vue.js: De cero a experto'](https://www.udemy.com/course/vuejs-fh/)  
 
+&nbsp;
+
 ### Magic Answer
 
 Ask whatever you want to get a random, gif animated, ultra AI-powered answer ;-)  
