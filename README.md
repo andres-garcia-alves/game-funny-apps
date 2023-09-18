@@ -4,7 +4,7 @@ A 'magic answer' & 'pokemon trivia' games, developed in Vue 3.
 
 Based on Fernando Herrera's online Vue.js courses (spanish):  
 - [YouTube channel](https://www.youtube.com/@DevTalles)  
-- [Course: 'Vue.js: De cero a experto'](https://www.udemy.com/course/vuejs-fh/)
+- [Course: 'Vue.js: De cero a experto'](https://www.udemy.com/course/vuejs-fh/)  
 
 ### Magic Answer
 
