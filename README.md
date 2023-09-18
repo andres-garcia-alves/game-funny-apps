@@ -9,7 +9,7 @@ Based on Fernando Herrera's online Vue.js courses (spanish):
 ### Magic Answer
 
 Ask whatever you want to get a random, gif animated, ultra AI-powered answer ;-)  
-[LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-magic-answer/)  
+[LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-funny-apps/magic-answer-game/dist/)  
 
 ### Pokemon Trvia
 
