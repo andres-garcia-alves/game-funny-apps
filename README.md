@@ -16,7 +16,7 @@ Ask whatever you want to get a random, gif animated, ultra AI-powered answer ;-)
 ### Pokemon Trivia
 
 Try to guees to what pokemon it is based on its shape.  
-[LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-pokemon-trivia/)  
+[LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-funny-apps/pokemon-trivia-game/dist/)  
 
 &nbsp;
 
