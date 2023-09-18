@@ -11,7 +11,7 @@ Based on Fernando Herrera's online Vue.js courses (spanish):
 Ask whatever you want to get a random, gif animated, ultra AI-powered answer ;-)  
 [LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-funny-apps/magic-answer-game/dist/)  
 
-### Pokemon Trvia
+### Pokemon Trivia
 
 Try to guees to what pokemon it is based on its shape.  
 [LIVE DEMO HERE](https://andres-garcia-alves.github.io/game-pokemon-trivia/)  
